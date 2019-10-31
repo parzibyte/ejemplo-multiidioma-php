@@ -1,0 +1,14 @@
+{
+    "name": "parzibyte/ejemplo-multiidioma-php",
+    "description": "Ejemplo para mostrar cadenas usando distintos lenguajes o idiomas en PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "parzibyte@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/translation": "^4.3"
+    }
+}
